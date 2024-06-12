@@ -1,12 +1,12 @@
 import React from "react";
 import { useState } from "react";
 import sailogo from '../assests/sailogo.jpg';
-import abhilogo from '../assests/abhilogo.png';
+import abhilogo from '../assests/abhilogo.jpg';
 import khushallogo from '../assests/khushallogo.png';
-import anandlogo from '../assests/anandlogo.png';
-import akashlogo from '../assests/akashlogo.png';
+import anandlogo from '../assests/anandlogo.jpg';
+import akashlogo from '../assests/akashlogo.jpg';
 import dhwanillogo from '../assests/dhwanillogo.jpg';
-import apurvalogo from '../assests/apurvalogo.png';
+import apurvalogo from '../assests/apurvalogo.jpg';
 import '../App.css';
 
 function Friends() {
